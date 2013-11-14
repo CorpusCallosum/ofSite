@@ -564,6 +564,8 @@ _inlined_description: _
 
 _description: _
 
+Returns the current hour.
+
 
 
 
