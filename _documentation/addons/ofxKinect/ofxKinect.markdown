@@ -2614,7 +2614,6 @@ _advanced: False_
 -->
 
 _inlined_description: _
-Angle range goes from 10 maximum pointing up to -30 minimum pointing down.
 
 
 
@@ -2624,6 +2623,7 @@ Angle range goes from 10 maximum pointing up to -30 minimum pointing down.
 
 
 _description: _
+Angle range goes from 10 maximum pointing up to -30 minimum pointing down.
 
 
 
